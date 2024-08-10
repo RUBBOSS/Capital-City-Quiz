@@ -30,8 +30,8 @@ The Capital City Quiz is a web application that challenges users to identify the
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/RUBBOSS/Capital-City-Quiz.git
+    cd Capital-City-Quiz
     ```
 
 2. **Install dependencies**
@@ -79,7 +79,3 @@ The Capital City Quiz is a web application that challenges users to identify the
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements or bug fixes.
-
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
